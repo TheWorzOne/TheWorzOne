@@ -12,6 +12,10 @@
 - 💬 Ask me about **Flutter, Laravel, Firebase**
 
 - 📫 How to reach me **ajaydarkville@gmail.com**
+  
+- 🚀 Aspiring Mobile Developer | Flutter • Unity • Firebase  
+🎯 Passionate about building cross-platform apps and AR experiences  
+💼 Currently working as IT Associate while expanding my mobile dev portfolio  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
