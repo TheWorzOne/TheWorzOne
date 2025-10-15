@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Asher Jeff B. Gonzales</h1>
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<h3 align="center">A passionate Full Stack Developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theworzone&label=Profile%20views&color=0e75b6&style=flat" alt="theworzone" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theworzone" alt="theworzone" /></a> </p>
 
-- 🔭 I’m currently working on **Boarding Buddy**
+- 🔭 I’m currently working on [Boarding Buddy](https://github.com/TheWorzOne/boarding_buddy.git)
 
 - 🌱 I’m currently learning **React, Laravel, C#**
 
