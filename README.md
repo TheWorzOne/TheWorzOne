@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Laravel, C#**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, Laravel, Firebase**
 
 - 📫 How to reach me **ajaydarkville@gmail.com**
 
